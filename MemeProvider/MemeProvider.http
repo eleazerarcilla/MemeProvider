@@ -1,0 +1,6 @@
+@MemeProvider_HostAddress = http://localhost:5191
+
+GET {{MemeProvider_HostAddress}}/meme/GetMeme
+Accept: application/json
+
+###
